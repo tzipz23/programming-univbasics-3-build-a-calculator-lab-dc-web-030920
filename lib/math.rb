@@ -19,5 +19,5 @@ sum = num2 /num1
 end
 
 def square_root(num)
-sum = num **
+sum = num**
 end
